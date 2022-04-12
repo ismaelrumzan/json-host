@@ -1,6 +1,8 @@
 {
-  "id": 8957,
-  "uid": "ae446996-1b9a-44d1-8c7b-e364bd865bea",
-  "brand": "Whirlpool",
-  "equipment": "Garbage disposal unit"
+  "data": {
+    "id": 8957,
+    "uid": "ae446996-1b9a-44d1-8c7b-e364bd865bea",
+    "brand": "Whirlpool",
+    "equipment": "Garbage disposal unit"
+  }
 }
