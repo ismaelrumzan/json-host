@@ -1,19 +1,16 @@
 {
-  "name": "json-host",
+  "name": "vanilla-json-server",
   "version": "1.0.0",
-  "description": "host json",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ismaelrumzan/json-host.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ismaelrumzan/json-host/issues"
-  },
-  "homepage": "https://github.com/ismaelrumzan/json-host#readme"
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
